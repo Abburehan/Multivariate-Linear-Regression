@@ -24,6 +24,7 @@ display the output
 ```
 ##Developed by: Abbu Rehan
 ##Registration number: 23010259
+
 import pandas as pd
 from sklearn import linear_model
 df=pd.read_csv("cars (1).csv")
